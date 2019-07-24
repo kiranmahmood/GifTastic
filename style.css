@@ -1,0 +1,10 @@
+body {
+    background-color:pink;
+}
+
+button,
+div,
+form,
+input {
+      margin: 10px;
+    }
